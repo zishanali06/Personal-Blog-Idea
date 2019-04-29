@@ -13,12 +13,12 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/zishanali06",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/zishanali06",
           "className":"fa fa-twitter"
         }
       ],
